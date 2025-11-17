@@ -1,10 +1,10 @@
-test.message: "Hello from config server for Address Service"
+test.message: "Hello from config server for Address - Service"
 
 management:
   endpoints:
     web:
       exposure:
-        include: '*'
+        include: refresh
 
 eureka:
   client:
