@@ -1,3 +1,5 @@
+test.message: "Hello from config server for User Service"
+
 management:
   endpoints:
     web:
