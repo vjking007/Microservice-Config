@@ -1,11 +1,5 @@
 test.message: "Hello from config server for User Service"
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: refresh, health, info
-
 eureka:
   client:
     register-with-eureka: true
