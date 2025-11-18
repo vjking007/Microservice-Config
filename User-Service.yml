@@ -1,4 +1,4 @@
-test.message: "Hello from config server for User Service"
+test.message: "Hello from config server for User Service 2"
 
 management:
   endpoints:
